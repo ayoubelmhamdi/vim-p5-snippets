@@ -1,7 +1,8 @@
 # vim-p5-snippets
-p5.js snippet forke from Atom 'bmoren/p5js-snippets' and VSCode  
+p5.js snippet ror vim :  
+its forke from Atom 'bmoren/p5js-snippets' and VSCode  
 ### HOW USED
-download by wget or clone thus repot and move this snippet to folder snippet/javascript
+download by wget (or clone this repot) and move this file to directory of your snipet : ```snippet/javascript```
 ## Compabilte 
 it's work with coc or Ultisnipets or both
 
